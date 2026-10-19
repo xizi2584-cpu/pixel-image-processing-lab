@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="480" viewBox="0 0 720 480">
+<defs><linearGradient id="wall" x2="0" y2="1"><stop stop-color="#b9c8b3"/><stop offset="1" stop-color="#d5ddc4"/></linearGradient><radialGradient id="fruit" cx=".35" cy=".28" r=".7"><stop stop-color="#ffcf65"/><stop offset=".55" stop-color="#ed8c34"/><stop offset="1" stop-color="#bc5023"/></radialGradient><linearGradient id="vase" x2="1" y2="0"><stop stop-color="#944956"/><stop offset=".4" stop-color="#cb7b85"/><stop offset="1" stop-color="#723c4d"/></linearGradient><filter id="blur"><feGaussianBlur stdDeviation="9"/></filter></defs>
+<path fill="url(#wall)" d="M0 0h720v480H0z"/><path fill="#e4d4b7" d="M0 310h720v170H0z"/>
+<path fill="#c9bb9c" d="M0 310h720v4H0z"/><ellipse fill="#575e42" opacity=".2" cx="370" cy="385" rx="232" ry="26" filter="url(#blur)"/>
+<path fill="url(#vase)" d="M189 181h79l-8 28c-2 17 48 73 39 115-9 42-124 48-141 7-17-40 37-101 38-122z"/><ellipse cx="229" cy="181" rx="40" ry="10" fill="#673c49"/>
+<path d="M228 181q-7-80 24-140m-25 112q-54-46-80-63m85 35q46-36 79-27" stroke="#526b3b" stroke-width="5" fill="none"/>
+<path fill="#557044" d="M239 93q-25-54 15-69 22 32-15 69M205 125q-61 4-66-45 45-5 66 45M250 116q14-54 69-26-17 38-69 26"/>
+<ellipse fill="#f3eddc" cx="442" cy="372" rx="145" ry="32"/><ellipse fill="#c6b997" cx="442" cy="368" rx="125" ry="22"/>
+<circle fill="url(#fruit)" cx="383" cy="326" r="57"/><circle fill="url(#fruit)" cx="477" cy="313" r="65"/><circle fill="url(#fruit)" cx="503" cy="364" r="48"/>
+<path d="M471 250l8 9 8-6m-111 17 9 8 7-7" fill="none" stroke="#626332" stroke-width="5"/>
+<path fill="#f8efda" d="M43 411h86v27H43z"/><path fill="#c8c2a9" d="M129 411h86v27h-86z"/><path fill="#939c80" d="M215 411h86v27h-86z"/><path fill="#657258" d="M301 411h86v27h-86z"/><path fill="#394b37" d="M387 411h86v27h-86z"/><path fill="#1d2e23" d="M473 411h86v27h-86z"/>
+</svg>
